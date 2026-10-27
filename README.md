@@ -17,5 +17,5 @@ Calculadora básica em linguagem C desenvolvida para prática de lógica com ope
 ## 🧮 Como Utilizar a Calculadora
 1. Após iniciar o programa, clique na consola preta na parte inferior da tela.
 2. Utilize o teclado para digitar o primeiro número, o segundo número e escolher a operação matemática desejada (1 para Soma, 2 para Subtração, 3 para Multiplicação ou 4 para Divisão).
-3. O cálculo será processado e o resultado será exibido imediatamente na consola:
+3. O cálculo será processado e o resultado será exibido imediatamente no console:
    <img width="406" height="269" alt="consoleCcalculadoraResultado" src="https://github.com/user-attachments/assets/84d7ed08-604d-4604-9dce-1ee4590c5617" />
